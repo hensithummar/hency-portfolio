@@ -185,19 +185,19 @@ export const feedbacks: FeedbackType[] = [
     name: "Ravi Savani",
     role: "developer at Andropedia",
     feedback:
-      "Hency has been a key contributor to our React.js and Next.js projects. His ability to build clean, scalable, and high-performing interfaces stands out. He consistently delivers on time, communicates effectively, and takes complete ownership of his tasks. His leadership and mentoring skills have greatly benefited the frontend team.",
+      "Hency has been a key contributor to our React.js and Next.js projects. Her ability to build clean, scalable, and high-performing interfaces stands out. She consistently delivers on time, communicates effectively, and takes complete ownership of her tasks. Her leadership and mentoring skills have greatly benefited the frontend team.",
   },
   {
     name: "Karan Mehta",
     role: "Team Lead at Webashlar Technologies",
     feedback:
-      "Working with Hency was an excellent experience. He has strong problem-solving skills and pays great attention to detail in UI/UX. His understanding of React.js, API integration, and performance optimization helped our team deliver complex features seamlessly. A reliable and self-motivated developer.",
+      "Working with Hency was an excellent experience. She has strong problem-solving skills and pays great attention to detail in UI/UX. Her understanding of React.js, API integration, and performance optimization helped our team deliver complex features seamlessly. A reliable and self-motivated developer.",
   },
   {
     name: "Ravi Undaviya",
     role: "Senior Developer at Tagline Infotech",
     feedback:
-      "Hency is a highly skilled React.js developer who quickly adapts to new tools and frameworks. He handled client projects independently, from gathering requirements to deployment, maintaining professionalism throughout. His enthusiasm for learning and teamwork makes him an asset to any organization.",
+      "Hency is a highly skilled React.js developer who quickly adapts to new tools and frameworks. She handled client projects independently, from gathering requirements to deployment, maintaining professionalism throughout. Her enthusiasm for learning and teamwork makes him an asset to any organization.",
   },
 ];
 
