@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Personal portfolio website of Hency Thummar — React.js & Next.js Developer specializing in building modern, scalable, and high-performance web applications.",
   "main": "index.js",
-  "repository": "https://github.com/1hanzla100/hanzla-portfolio.git",
+  "repository": "https://github.com/hensithummar/hency-portfolio.git",
   "author": "Hency Thummar",
   "license": "MIT",
   "scripts": {

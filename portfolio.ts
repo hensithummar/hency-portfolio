@@ -20,7 +20,7 @@ export const greetings: GreetingsType = {
 };
 
 export const openSource = {
-  githubUserName: "hency",
+  githubUserName: "hensithummar",
 };
 
 export const contact = {};
@@ -28,10 +28,7 @@ export const contact = {};
 export const socialLinks: SocialLinksType = {
   email: "mailto:thummarhensi2001@gmail.com",
   linkedin: "https://www.linkedin.com/in/hensithummar",
-  // github: "https://github.com/1hanzla100",
-  // instagram: "https://www.instagram.com/__hanzla100",
-  // facebook: 'https://www.facebook.com/1hanzla100',
-  // twitter: 'https://twitter.com/1hanzla100',
+  github: "https://github.com/hensithummar",
 };
 
 export const skillsSection: SkillsSectionType = {
