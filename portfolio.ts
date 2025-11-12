@@ -206,6 +206,6 @@ export const seoData: SEODataType = {
   title: "Hency Thummar",
   description: greetings.description,
   author: "Hency Thummar",
-  url: "https://developer-portfolio-1hanzla100.vercel.app",
+  url: "https://69145eb06aa04f000862673d--hency-thummar.netlify.app",
   keywords: ["Hency", "Hency Thummar", "Portfolio", "Hency Portfolio ", "Hency Thummar Portfolio"],
 };
